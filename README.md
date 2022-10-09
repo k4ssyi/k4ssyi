@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**k4ssyi/k4ssyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/k4ssyi/k4ssyi/">
+    <img src="https://komarev.com/ghpvc/?username=k4ssyi" alt="k4ssyi" />
+  </a>
+  <a href="http://twitter.com/k4ssyi">
+    <img height="20" src="https://img.shields.io/twitter/follow/k4ssyi?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/k4ssyi">
+    <img height="20" src="https://img.shields.io/github/followers/k4ssyi?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/k4ssyi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/k4ssyi/posts.svg" />
+  </a>
+  <//qiita.com/k4ssyi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/k4ssyi/contributions.svg" />
+  </a>
+</p>
